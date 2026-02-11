@@ -12,12 +12,5 @@ I am a passionate developer focused on **hardware description languages**, **emb
 
 ---
 
-### 📊 Activity & Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mmaxirod8&show_icons=true&theme=vision-glow" alt="Stats" />
-</p>
-
----
-
-### 📬 Connect with me
-[LinkedIn] | [Portfolio/ArtStation] | [Email]
+### 📬 Stay in touch
+[[LinkedIn](https://www.linkedin.com/in/maximiliano-rodriguez-arg/)] | [[My website](https://mmaxirod8.my.canva.site/)]
