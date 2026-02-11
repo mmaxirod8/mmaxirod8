@@ -7,7 +7,13 @@ I am a passionate developer focused on **hardware description languages**, **emb
 ### 💻 Tech Stack
 
 ![VHDL](https://img.shields.io/badge/VHDL-005086?style=for-the-badge&logo=vhdl&logoColor=white)
-![Autodesk Fusion](https://img.shields.io/badge/Autodes_Fusion-F5792A?style=for-the-badge&logo=fusion&logoColor=white)
+![C](https://img.shields.io/badge/c-00747D?style=for-the-badge&logo=&logoColor=white)
+![C++](https://img.shields.io/badge/c++-009BB0?style=for-the-badge&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-128722?style=for-the-badge&logo=python&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-7D4A00?style=for-the-badge&logo=quartus&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-7D2C00?style=for-the-badge&logo=vivado&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-696969?style=for-the-badge&logo=solidworks&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-B84B00?style=for-the-badge&logo=fusion&logoColor=white)
 
 
 ---
