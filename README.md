@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🛠️ Maximiliano Rodriguez | Electronics, Cybersecurity & Design
 
-<!--
-**mmaxirod8/mmaxirod8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am a passionate developer focused on **hardware description languages**, **embedded systems**, **cybersecurity**, and **3D design**. Currently, I am exploring the performance limits of FPGAs, functional 3D modeling, and key fundamentals of information security.
+---
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![VHDL](https://img.shields.io/badge/VHDL-005086?style=for-the-badge&logo=vhdl&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Autodes_Fusion-F5792A?style=for-the-badge&logo=fusion&logoColor=white)
+
+
+---
+
+### 📊 Activity & Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mmaxirod8&show_icons=true&theme=vision-glow" alt="Stats" />
+</p>
+
+---
+
+### 📬 Connect with me
+[LinkedIn] | [Portfolio/ArtStation] | [Email]
