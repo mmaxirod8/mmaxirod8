@@ -27,6 +27,11 @@ Software
 
 ---
 
+### 🕹️
+![My GitHub Game](game.gif)
+
+---
+
 ### 📬 Stay in touch
 [LinkedIn](https://www.linkedin.com/in/maximiliano-rodriguez-arg/) | [My website](https://mmaxirod8.my.canva.site/)
 
@@ -35,6 +40,3 @@ Software
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="30px" src="https://skillicons.dev/icons?i=github&theme=dark" style="padding-right:10px;" />
-
-### 🕹️ Mi Actividad como un Space Shooter
-![My GitHub Game](game.gif)
