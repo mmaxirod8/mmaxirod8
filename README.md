@@ -25,3 +25,5 @@ Software
 
 ### 📬 Stay in touch
 [LinkedIn](https://www.linkedin.com/in/maximiliano-rodriguez-arg/) | [My website](https://mmaxirod8.my.canva.site/)
+
+<img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
