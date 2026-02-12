@@ -15,10 +15,14 @@ I am a passionate developer focused on **hardware description languages**, **emb
 ---
 Software
 
+![ModelSim](https://img.shields.io/badge/ModelSim-870371?style=for-the-badge&logo=modelsim&logoColor=white)
+![Octave](https://img.shields.io/badge/Octave-33027A?style=for-the-badge&logo=octave&logoColor=white)
 ![Quartus](https://img.shields.io/badge/Quartus-7D4A00?style=for-the-badge&logo=quartus&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-7D2C00?style=for-the-badge&logo=vivado&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-696969?style=for-the-badge&logo=solidworks&logoColor=white)
+![KiCAD](https://img.shields.io/badge/KiCAD-BA811E?style=for-the-badge&logo=kicad&logoColor=white)
+![MultiSim](https://img.shields.io/badge/MultiSim-A30000?style=for-the-badge&logo=multisim&logoColor=white)
 ![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-B84B00?style=for-the-badge&logo=fusion&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-696969?style=for-the-badge&logo=solidworks&logoColor=white)
 
 
 ---
