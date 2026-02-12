@@ -19,4 +19,4 @@ I am a passionate developer focused on **hardware description languages**, **emb
 ---
 
 ### 📬 Stay in touch
-[[LinkedIn](https://www.linkedin.com/in/maximiliano-rodriguez-arg/)] | [[My website](https://mmaxirod8.my.canva.site/)]
+[LinkedIn](https://www.linkedin.com/in/maximiliano-rodriguez-arg/) | [My website](https://mmaxirod8.my.canva.site/)
