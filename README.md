@@ -27,7 +27,6 @@ Software
 
 ---
 
-### 🕹️
 ![My GitHub Game](game.gif)
 
 ---
