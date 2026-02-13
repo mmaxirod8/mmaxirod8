@@ -1,6 +1,6 @@
-# 🛠️ Maximiliano Rodriguez | Electronics, Cybersecurity & Design
+# 📟 Maximiliano Rodriguez | Electronics, Cybersecurity & Design
 
-### 🚀 About Me
+###📌 About Me
 I am a passionate developer focused on **hardware description languages**, **embedded systems**, **cybersecurity**, and **3D design**. Currently, I am exploring the performance limits of FPGAs, functional 3D modeling, and key fundamentals of information security.
 ---
 
@@ -26,7 +26,7 @@ Software
 
 
 ---
-
+### 🕹️ INSERT COMMITS TO PLAY
 ![My GitHub Game](game.gif)
 
 ---
