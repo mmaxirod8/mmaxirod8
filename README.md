@@ -28,7 +28,7 @@ Software
 
 
 ---
-### 🕹️ INSERT COMMITS TO PLAY
+### 🕹️
 ![My GitHub Game](game.gif)
 
 ---
