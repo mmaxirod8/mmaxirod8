@@ -28,7 +28,7 @@ Software
 
 
 ---
-### 🕹️
+### 🕹️ My commits gameplay
 ![My GitHub Game](game.gif)
 
 ---
