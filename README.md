@@ -7,7 +7,7 @@
 ---
 
 ### 💻 Tech Stack
- * Languages
+ *Languages*
  
 ![VHDL](https://img.shields.io/badge/VHDL-005086?style=for-the-badge&logo=vhdl&logoColor=white)
 ![C](https://img.shields.io/badge/c-00747D?style=for-the-badge&logo=&logoColor=white)
