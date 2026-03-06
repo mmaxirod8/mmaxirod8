@@ -1,4 +1,4 @@
-# 📟 Maximiliano Rodriguez | Electronics, Cybersecurity & Design
+# 📟 Maximiliano Rodriguez | Electronics, Cybersecurity & 3D Design
 
 ### 📌 About Me
 
@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-128722?style=for-the-badge&logo=python&logoColor=white)
 
 ---
-Software
+Electronics Software
 
 ![ModelSim](https://img.shields.io/badge/ModelSim-870371?style=for-the-badge&logo=modelsim&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-33027A?style=for-the-badge&logo=octave&logoColor=white)
@@ -23,6 +23,9 @@ Software
 ![Vivado](https://img.shields.io/badge/Vivado-7D2C00?style=for-the-badge&logo=vivado&logoColor=white)
 ![KiCAD](https://img.shields.io/badge/KiCAD-BA811E?style=for-the-badge&logo=kicad&logoColor=white)
 ![MultiSim](https://img.shields.io/badge/MultiSim-A30000?style=for-the-badge&logo=multisim&logoColor=white)
+
+3D Software
+
 ![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-B84B00?style=for-the-badge&logo=fusion&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-696969?style=for-the-badge&logo=solidworks&logoColor=white)
 
