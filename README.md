@@ -15,7 +15,7 @@
 ![Python](https://img.shields.io/badge/Python-128722?style=for-the-badge&logo=python&logoColor=white)
 
 
-**Electronics Software**
+*Electronics Software 
 
 ![ModelSim](https://img.shields.io/badge/ModelSim-870371?style=for-the-badge&logo=modelsim&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-33027A?style=for-the-badge&logo=octave&logoColor=white)
