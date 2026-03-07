@@ -10,26 +10,26 @@
 Languages
  
 ![VHDL](https://img.shields.io/badge/VHDL-005086?style=for-the-badge&logo=vhdl&logoColor=white)
-![C](https://img.shields.io/badge/c-00747D?style=for-the-badge&logo=&logoColor=white)
-![C++](https://img.shields.io/badge/c++-009BB0?style=for-the-badge&logo=C++&logoColor=white)
-![Python](https://img.shields.io/badge/Python-128722?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/c-005086?style=for-the-badge&logo=&logoColor=white)
+![C++](https://img.shields.io/badge/c++-005086?style=for-the-badge&logo=C++&logoColor=white)
+![Python](https://img.shields.io/badge/Python-005086?style=for-the-badge&logo=python&logoColor=white)
 
 
 Electronics Software 
 
-![ModelSim](https://img.shields.io/badge/ModelSim-870371?style=for-the-badge&logo=modelsim&logoColor=white)
+![ModelSim](https://img.shields.io/badge/ModelSim-33027A?style=for-the-badge&logo=modelsim&logoColor=white)
 ![Octave](https://img.shields.io/badge/Octave-33027A?style=for-the-badge&logo=octave&logoColor=white)
-![Quartus_Prime](https://img.shields.io/badge/Quartus_Prime-7D4A00?style=for-the-badge&logo=quartus&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-7D2C00?style=for-the-badge&logo=vivado&logoColor=white)
-![KiCAD](https://img.shields.io/badge/KiCAD-BA811E?style=for-the-badge&logo=kicad&logoColor=white)
-![MultiSim](https://img.shields.io/badge/MultiSim-A30000?style=for-the-badge&logo=multisim&logoColor=white)
+![Quartus_Prime](https://img.shields.io/badge/Quartus_Prime-33027A?style=for-the-badge&logo=quartus&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-33027A?style=for-the-badge&logo=vivado&logoColor=white)
+![KiCAD](https://img.shields.io/badge/KiCAD-33027A?style=for-the-badge&logo=kicad&logoColor=white)
+![MultiSim](https://img.shields.io/badge/MultiSim-33027A?style=for-the-badge&logo=multisim&logoColor=white)
 
 
 
 3D Software
 
 ![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-B84B00?style=for-the-badge&logo=fusion&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-696969?style=for-the-badge&logo=solidworks&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-B84B00?style=for-the-badge&logo=solidworks&logoColor=white)
 
 Certifications & Badges
 
@@ -54,18 +54,18 @@ Certifications & Badges
 
 <div align="left">
   <a href="https://www.linkedin.com/in/maximiliano-rodriguez-arg/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-303030?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6E0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
  
   <a href="https://mmaxirod8.my.canva.site/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-303030?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Portfolio-6E0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
 
   
    <a href="https://maximiliano-rodriguez.gitbook.io/maximiliano-rodriguez/" target="_blank">
-    <img src="https://img.shields.io/badge/Writeups-303030?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/Writeups-6E0000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
 <img align="right" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
