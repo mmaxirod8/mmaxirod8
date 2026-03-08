@@ -34,13 +34,8 @@ Electronics Software
 Certifications & Badges
 
 ![CCNA](https://img.shields.io/badge/CCNA-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
-![CCNP](https://img.shields.io/badge/CCNP-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
 ![DEVNET](https://img.shields.io/badge/DEVNET-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
 ![Jr. Cybersecurity Analyst](https://img.shields.io/badge/Jr._Cybersecurity_Analyst-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
-
-
-![CSWA](https://img.shields.io/badge/CSWA-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
-![CSWP](https://img.shields.io/badge/CSWP-FFFFFF?style=for-the-badge&logo=solidworks&logoColor=white)
 
 
 ---
