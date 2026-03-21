@@ -28,8 +28,8 @@ Electronics Software
 
 3D Software
 
-![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-A84500?style=for-the-badge&logo=fusion&logoColor=white)
-![SolidWorks](https://img.shields.io/badge/SolidWorks-A84500?style=for-the-badge&logo=solidworks&logoColor=white)
+![Autodesk Fusion](https://img.shields.io/badge/Autodesk_Fusion-C22500?style=for-the-badge&logo=fusion&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-C22500?style=for-the-badge&logo=solidworks&logoColor=white)
 
 Certifications & Badges
 
